@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14bb2c67.chunk.css",
+    "main.js": "/static/js/main.9d631622.chunk.js",
+    "main.js.map": "/static/js/main.9d631622.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c54c2c99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c54c2c99.js.map",
+    "static/css/2.84e7834d.chunk.css": "/static/css/2.84e7834d.chunk.css",
+    "static/js/2.b09b17d9.chunk.js": "/static/js/2.b09b17d9.chunk.js",
+    "static/js/2.b09b17d9.chunk.js.map": "/static/js/2.b09b17d9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.84e7834d.chunk.css.map": "/static/css/2.84e7834d.chunk.css.map",
+    "static/css/main.14bb2c67.chunk.css.map": "/static/css/main.14bb2c67.chunk.css.map",
+    "static/js/2.b09b17d9.chunk.js.LICENSE.txt": "/static/js/2.b09b17d9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/landing2.5d51a86e.jpg",
+    "static/media/mdb.css": "/static/media/arrow_right.0897f985.svg",
+    "static/media/autocard1.adab176a.jpg": "/static/media/autocard1.adab176a.jpg",
+    "static/media/autocard3.a800c6e5.jpg": "/static/media/autocard3.a800c6e5.jpg",
+    "static/media/autocard4.b37eb687.jpg": "/static/media/autocard4.b37eb687.jpg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/field.ad24b447.jpg": "/static/media/field.ad24b447.jpg",
+    "static/media/logo.650a8af6.png": "/static/media/logo.650a8af6.png",
+    "static/media/logo1.c52f153e.jpeg": "/static/media/logo1.c52f153e.jpeg",
+    "static/media/marine.1adea7e7.jpg": "/static/media/marine.1adea7e7.jpg",
+    "static/media/mineral.45cd7c87.jpg": "/static/media/mineral.45cd7c87.jpg",
+    "static/media/oil&gas.54e68a2c.jpg": "/static/media/oil&gas.54e68a2c.jpg",
+    "static/media/oilandgas.54e68a2c.jpg": "/static/media/oilandgas.54e68a2c.jpg",
+    "static/media/qa.56d6ea49.jpg": "/static/media/qa.56d6ea49.jpg",
+    "static/media/tank.2348347f.jpg": "/static/media/tank.2348347f.jpg",
+    "static/media/training.c0eafe73.jpg": "/static/media/training.c0eafe73.jpg",
+    "static/media/training1.845b7bf6.jpg": "/static/media/training1.845b7bf6.jpg",
+    "static/media/vendor.08fc6525.jpg": "/static/media/vendor.08fc6525.jpg",
+    "static/media/welding.fa29259f.jpeg": "/static/media/welding.fa29259f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c54c2c99.js",
+    "static/css/2.84e7834d.chunk.css",
+    "static/js/2.b09b17d9.chunk.js",
+    "static/css/main.14bb2c67.chunk.css",
+    "static/js/main.9d631622.chunk.js"
+  ]
+}
